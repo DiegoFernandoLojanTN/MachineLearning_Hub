@@ -1,4 +1,4 @@
-[![Logo](https://i.postimg.cc/VsVnWWL6/ba5c50d9-9e9d-455d-b520-4d6f40b09eae.jpg]
+[![Logo](https://i.postimg.cc/VsVnWWL6/ba5c50d9-9e9d-455d-b520-4d6f40b09eae.jpg)](https://postimg.cc/s15MVSWd)
 # MachineLearning_Hub
 
 Hola! Soy Lautish, un estudiante del itinerario de Sistemas Inteligentes en busca de conocimiento y pasión por la ciencia de datos y la inteligencia artificial. He creado este repositorio abierto con el propósito de ofrecer una colección de ejemplos prácticos sobre algoritmos para todos los interesados en aprender y aplicar estas técnicas en sus proyectos.
