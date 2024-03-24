@@ -18,6 +18,7 @@ En este repositorio, encontrarás una variedad de ejemplos prácticos que abarca
 ## Contenido
 
  - [Kmeans: Ejemplo practico - Transacciónes Bancarias](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/KMEANS_TRASACCIONES_FRAUDULENTAS)
+ - [Kmeans: Ejemplo practico - Tiempo Climatico](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/KMEANS_CLUSTERING_CLIMA)
  - [Support Vector Machine: Ejemplo practico - Url con Phishing](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/SVM_URL_PHISHING)
  - [Naive Bayes: Ejemplo practico - Detección de SPAM](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/NAIVEBAYES_DETECCION_DE_SPAM)
  - [Linear Regression: Ejemplo practico - Valoración General de Jugadores](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/LINEARREGRESSION_VALORACIONGENERAL_JUGADORES)
