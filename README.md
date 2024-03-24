@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/icon.jpg" alt="img" style="width: 55%"></p>
+<p align="center"><img src="icon.jpg" alt="img" style="width: 55%"></p>
 
 # MachineLearning_Hub
 
