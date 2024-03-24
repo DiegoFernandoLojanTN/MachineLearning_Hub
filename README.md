@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.jpg" alt="img" style="width: 25%"></p>
+<p align="center"><img src="icon1.3v.png" alt="img" style="width: 35%"></p>
 
 # MachineLearning_Hub
 
