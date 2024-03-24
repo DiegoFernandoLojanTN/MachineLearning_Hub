@@ -1,12 +1,10 @@
-<p align="center"><img src="https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/blob/master/icon.jpg" alt="img" style="width: 55%"></p>
+<p align="center"><img src="https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/master/icon.jpg" alt="img" style="width: 55%"></p>
 
 # MachineLearning_Hub
 
 Hola! Soy Lautish, un estudiante del itinerario de Sistemas Inteligentes en busca de conocimiento por la ciencia de datos y la inteligencia artificial. He creado este repositorio abierto con el propósito de ofrecer una colección de ejemplos prácticos sobre algoritmos para todos los interesados en aprender y aplicar estas técnicas en sus proyectos.
 
 - [Bases de Datos Usadas](https://drive.google.com/drive/folders/1wPPhXu3NSRRjUeEoar-rumZl0KTT7Vnm?usp=drive_link)
-
-
 
 
 ## Acerca de este Repositorio
