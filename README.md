@@ -27,6 +27,7 @@ En este repositorio, encontrarás una variedad de ejemplos prácticos que abarca
 ## Contenido de RNC
   - [CNN-KERAS: Ejemplo practico - Detección de Estacionamiento Vacío](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/SISTEMA_DE_DETECCIÓN_DE_ESPACIOS_DE_ESTACIONAMIENTO_VACÍOS)
   - [CNN-TensorFlow: Ejemplo practico - Detección de Expresiones Faciales](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/SISTEMA_DE_RECONOCIMIENTO_FACIAL_EXPRESIONES)
+  - [CNN-YOLOv4-tiny: Ejemplo practico - Detección de Numeros de Dorsales](https://github.com/jahirxtrap/bib-detector.git)
 
 
 ## Capturas 
@@ -39,7 +40,7 @@ En este repositorio, encontrarás una variedad de ejemplos prácticos que abarca
 - Detección de Expresiones Faciales
 [![Detección de Emociones](https://i.postimg.cc/T1pH1k9f/Captura-de-pantalla-65.png)](https://postimg.cc/gLbKBHQT)
 - Deteccion de Numero de Dorsales
-[![Detección de Numeros de Dorsales](https://i.postimg.cc/nhmDGvz2/5.png)](https://postimg.cc/MnWHWf1f)
+[![Detección de Numeros de Dorsales](https://i.postimg.cc/Sxmhg4QP/8.png)](https://postimg.cc/56KTtZC5)
 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas y apreciadas! Para mantener la coherencia y la calidad del repositorio, por favor ten en cuenta lo siguiente al contribuir:
