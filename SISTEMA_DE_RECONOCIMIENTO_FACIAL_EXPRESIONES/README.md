@@ -39,7 +39,7 @@ El archivo `Emotions.py` incluye:
 A continuación se muestran algunos ejemplos de detección de emociones en tiempo real utilizando la webcam:
 
 [![Detección de Emociones 1](https://i.postimg.cc/T1pH1k9f/Captura-de-pantalla-65.png)](https://postimg.cc/gLbKBHQT)
-*Descripción: [Detección de emoción]*
+*Descripción: Detección de emoción*
 
 
 ## Contribuciones
