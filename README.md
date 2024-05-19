@@ -38,7 +38,7 @@ En este repositorio, encontrarás una variedad de ejemplos prácticos que abarca
 - Visíon por Computadora
 [![Detección de Espacios](https://i.postimg.cc/d3V70n1s/imagen-2024-05-19-155407702.png)](https://postimg.cc/JDS76NZv)
 - Detección de Expresiones Faciales
-[![Detección de Emociones](https://i.postimg.cc/T1pH1k9f/Captura-de-pantalla-65.png)](https://postimg.cc/gLbKBHQT)
+[![Detección de Emociones](https://i.postimg.cc/nhzf7khj/Captura-de-pantalla-65.png)](https://postimg.cc/WhQyc0rT)
 - Deteccion de Numero de Dorsales
 [![Detección de Numeros de Dorsales](https://i.postimg.cc/Sxmhg4QP/8.png)](https://postimg.cc/56KTtZC5)
 
