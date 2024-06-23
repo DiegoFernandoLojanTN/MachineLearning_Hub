@@ -30,7 +30,7 @@ En este repositorio, encontrarás una variedad de ejemplos prácticos que abarca
   - [CNN-YOLOv4-tiny: Ejemplo practico - Detección de Numeros de Dorsales](https://github.com/jahirxtrap/bib-detector.git)
 
 ## Contenido de Vosk-Voz
-  - [Vosk-CNN: Ejemplo practico - Transcripción de voz mediante una aplicación móvil sin conexión A INTERNET para completar plantillas personalizadas.](https://github.com/jahirxtrap/GeoVoiceTranscriptor.git)
+  - [Vosk-CNN: Ejemplo practico - Transcripción de voz mediante una aplicación móvil sin conexión a internet para completar plantillas personalizadas.](https://github.com/jahirxtrap/GeoVoiceTranscriptor.git)
 
 
 ## Capturas 
