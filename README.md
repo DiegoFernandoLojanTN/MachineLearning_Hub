@@ -24,10 +24,13 @@ En este repositorio, encontrarás una variedad de ejemplos prácticos que abarca
  - [Continuara...]()
 
 
-## Contenido de RNC
+## Contenido de CNN
   - [CNN-KERAS: Ejemplo practico - Detección de Estacionamiento Vacío](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/SISTEMA_DE_DETECCIÓN_DE_ESPACIOS_DE_ESTACIONAMIENTO_VACÍOS)
   - [CNN-TensorFlow: Ejemplo practico - Detección de Expresiones Faciales](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/SISTEMA_DE_RECONOCIMIENTO_FACIAL_EXPRESIONES)
   - [CNN-YOLOv4-tiny: Ejemplo practico - Detección de Numeros de Dorsales](https://github.com/jahirxtrap/bib-detector.git)
+
+## Contenido de Vosk-Voz
+  - [Vosk-CNN: Ejemplo practico - Transcripción de voz mediante una aplicación móvil sin conexión A INTERNET para completar plantillas personalizadas.](https://github.com/jahirxtrap/GeoVoiceTranscriptor.git)
 
 
 ## Capturas 
@@ -41,6 +44,8 @@ En este repositorio, encontrarás una variedad de ejemplos prácticos que abarca
 [![Detección de Emociones](https://i.postimg.cc/nhzf7khj/Captura-de-pantalla-65.png)](https://postimg.cc/WhQyc0rT)
 - Deteccion de Numero de Dorsales
 [![Detección de Numeros de Dorsales](https://i.postimg.cc/Sxmhg4QP/8.png)](https://postimg.cc/56KTtZC5)
+- Transcripción de Voz a Texto Con Plantillas Personalizables
+[![Voz A Texto](https://i.postimg.cc/vmJ0Vhby/imagen-2024-06-23-144335189.png)](https://postimg.cc/bGR0XQZV) 
 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas y apreciadas! Para mantener la coherencia y la calidad del repositorio, por favor ten en cuenta lo siguiente al contribuir:
