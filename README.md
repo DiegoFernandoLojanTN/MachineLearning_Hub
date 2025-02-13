@@ -28,7 +28,7 @@ En este repositorio, encontrarás una variedad de ejemplos prácticos que abarca
   - [CNN-KERAS: Ejemplo practico - Detección de Estacionamiento Vacío](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/SISTEMA_DE_DETECCIÓN_DE_ESPACIOS_DE_ESTACIONAMIENTO_VACÍOS)
   - [CNN-TensorFlow: Ejemplo practico - Detección de Expresiones Faciales](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/SISTEMA_DE_RECONOCIMIENTO_FACIAL_EXPRESIONES)
   - [CNN-YOLOv4-tiny: Ejemplo practico - Detección de Numeros de Dorsales](https://github.com/jahirxtrap/bib-detector.git)
-
+  - [CNN-DeepLearning: Ejemplo practico - Clasificación Multiclase](https://github.com/DiegoFernandoLojanTN/MachineLearning_Hub/tree/main/Deep%20Learning%20-%20Proyecto%20de%20Clasificación%20Multiclase)
 ## Contenido de Vosk-Voz
   - [Vosk-CNN: Ejemplo practico - Transcripción de voz mediante una aplicación móvil sin conexión a internet para completar plantillas personalizadas.](https://github.com/jahirxtrap/GeoVoiceTranscriptor.git)
 
